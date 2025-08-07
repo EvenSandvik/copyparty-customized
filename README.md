@@ -1,6 +1,6 @@
 <img src="https://github.com/9001/copyparty/raw/hovudstraum/docs/logo.svg" width="250" align="right"/>
 
-### 💾🎉 copyparty
+### 💾🎉 fork of copyparty
 
 turn almost any device into a file server with resumable uploads/downloads using [*any*](#browser-support) web browser
 
